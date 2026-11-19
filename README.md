@@ -162,12 +162,12 @@ SHG-Saathi/
 
 
 ## 10. Team
-                   Responsibility   	Key tasks
-Member 1	Frontend & Dashboard	Streamlit UI, dashboard, order forms and member views
-Member 2	Database & Backend	    SQLite database, member profiles, order records and task management
-Member 3	AI & Agent Development	Gemini API, AI assistant, task allocation recommendations and delay detection
-Member 4	Business Logic & Testing 	Cost calculations, payment tracking, testing, documentation and PPT
-
+ Team member   Responsibility
+  ------------- ----------------
+  Ananya       Frontend & Dashboard
+  Annapurna     Database & Backend
+  Supriya       AI & Agent Development
+  Varshini      Business Logic & Testing
 
 ## 11. References & Learning Resources
 
