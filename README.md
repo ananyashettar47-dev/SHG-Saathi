@@ -2,7 +2,7 @@
 
 ### AI-Powered Business Management & Empowerment Platform for Women Self-Help Groups
 
-> **GAVS Hackathon \| Tech4Bharat \| Theme 8: Youth & Women
+> **GAVS Hackathon | Tech4Bharat | Theme 8: Youth & Women
 > Empowerment**
 
 SHG Saathi is a proposed digital operations platform designed to help
@@ -101,17 +101,26 @@ technology as implemented until it is actually integrated.*
 
 **Current stage:** Concept and prototype planning.
 
-Planned development milestones: - \[ \] Set up the project repository
-and Python environment. - \[ \] Build the Streamlit application
-skeleton. - \[ \] Create member and order data models. - \[ \] Implement
-order creation and management. - \[ \] Implement task allocation
-rules. - \[ \] Add production status tracking. - \[ \] Add cost and
-member payment calculations. - \[ \] Integrate the AI assistant with
-application tools. - \[ \] Test using clearly labelled simulated
-scenarios. - \[ \] Seek feedback from an SHG coordinator or relevant
+Planned development milestones: - 
+[ \] Set up the project repository
+and Python environment. 
+- \[ \] Build the Streamlit application
+skeleton.
+ - \[ \] Create member and order data models.
+ -  - \[ \] Implement
+order creation and management.
+- \[ \] Implement task allocation
+rules.
+ - \[ \] Add production status tracking.
+ -  - \[ \] Add cost and
+member payment calculations.
+ - \[ \] Integrate the AI assistant with
+application tools.
+ - \[ \] Test using clearly labelled simulated
+scenarios.
+ - \[ \] Seek feedback from an SHG coordinator or relevant
 organisation, where possible.
 
-Update this checklist honestly as work is completed.
 
 ## 8. Responsible Design
 
@@ -151,20 +160,14 @@ SHG-Saathi/
 └── screenshots/
 ```
 
-Only add files and folders when they exist. It is fine to begin with
-just `README.md` and add the rest as development progresses.
 
 ## 10. Team
+                   Responsibility   	Key tasks
+Member 1	Frontend & Dashboard	Streamlit UI, dashboard, order forms and member views
+Member 2	Database & Backend	    SQLite database, member profiles, order records and task management
+Member 3	AI & Agent Development	Gemini API, AI assistant, task allocation recommendations and delay detection
+Member 4	Business Logic & Testing 	Cost calculations, payment tracking, testing, documentation and PPT
 
-Add your team members' names, roles, and institution details here before
-final submission.
-
-  Team member   Responsibility
-  ------------- ----------------
-  Member 1      To be added
-  Member 2      To be added
-  Member 3      To be added
-  Member 4      To be added
 
 ## 11. References & Learning Resources
 
